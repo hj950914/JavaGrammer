@@ -11,5 +11,5 @@ public class NoticeTest {
 
     //创建Notice类的对象,生成三条公告
     Notice notice=new Notice(1,"欢迎来到hj","管理员",new Date());
-
+     //111
 }
