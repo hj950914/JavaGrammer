@@ -1,12 +1,15 @@
+/*
 package com.hj.JavaSe.polymorphic;
 
 import org.junit.Test;
 
+*/
 /**
  * Author: hj
  * Date: 2019-01-09 22:11
  * Description: <手机测试类>
- */
+ *//*
+
 public class PhoneTest {
 
     @Test
@@ -43,3 +46,4 @@ public class PhoneTest {
         INet.stop();
     }
 }
+*/

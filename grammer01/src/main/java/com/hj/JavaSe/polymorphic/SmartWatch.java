@@ -15,10 +15,10 @@ public class SmartWatch implements INet,IPhoto {
         System.out.println("智能手表可以上网");
     }
 
-    @Override
+    /*@Override
     public void connection() {
         System.out.println("SmartWatch中的connection");
-    }
+    }*/
 
     @Override
     public void photo() {

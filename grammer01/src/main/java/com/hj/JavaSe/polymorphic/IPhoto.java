@@ -10,7 +10,7 @@ public interface IPhoto {
     //拍照方法
     public void photo();
 
-    public default void connection(){
+    /*public default void connection(){
         System.out.println("我是IPhoto的connection");
-    }
+    }*/
 }

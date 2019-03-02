@@ -17,11 +17,11 @@ public class ForthPhone extends ThreePhone implements IPhoto,INet{
         System.out.println("手机可以玩游戏");
     }
 
-    @Override
+   /* @Override
     public void connection() {
         System.out.println("ForthPhone的connection");
     }
-
+*/
     @Override
     public void photo() {
         System.out.println("手机可以拍照");

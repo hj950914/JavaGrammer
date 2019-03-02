@@ -15,7 +15,7 @@ public interface INet {
     //上网方法
     public void network();
 
-    //默认方法
+   /* //默认方法
     public default void connection(){
         System.out.println("我是接口中的默认方法");
     }
@@ -24,5 +24,5 @@ public interface INet {
     public static void stop(){
         System.out.println("我是接口中的静态方法");
     }
-
+*/
 }
