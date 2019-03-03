@@ -2,77 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdbe1bb5-fea9-44db-83c9-ebb2fade6484" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/hashsetDemoOne/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/hashsetDemoOne/CatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/hashsetDemoOne/HashSetTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/polymorphic/ForthPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/polymorphic/ForthPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/polymorphic/INet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/polymorphic/INet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/polymorphic/IPhoto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/polymorphic/IPhoto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/polymorphic/SmartWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/polymorphic/SmartWatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/listDemoOne/NoticeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/listDemoOne/NoticeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hj/JavaSe/Demo01Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/Demo01Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hj/JavaSe/polymorphic/PhoneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hj/JavaSe/polymorphic/PhoneTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/Arithmetic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/Arithmetic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/Demo01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/design_pattern/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/design_pattern/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/encapsulation/Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/encapsulation/Students.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/encapsulation/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/encapsulation/Subject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/encapsulation/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/encapsulation/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/exception/ExceptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/exception/ExceptionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Camera.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Camera.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/ForthPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/ForthPhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/INet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/INet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/IPhoto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/IPhoto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Master.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Master.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/SecondPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/SecondPhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/SmartWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/SmartWatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Telphone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/Telphone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/ThreePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/ThreePhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/Man.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/Man.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/Person$1HeartThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/Person$1HeartThree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/Person$Heart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/Person$Heart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/Person$HeartTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/Person$HeartTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/PersonTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/PersonTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/Woman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/polymorphic/people/Woman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/set/LIstTestOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/string/StringTestOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/string/StringTestOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/succeed/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/succeed/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/succeed/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/succeed/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/succeed/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/succeed/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/succeed/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/succeed/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/succeed/TestThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/succeed/TestThree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/succeed/TestTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/succeed/TestTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/wrap/WrapTestOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/wrap/WrapTestOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.hj.JavaSe.Demo01Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.hj.JavaSe.Demo01Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.hj.JavaSe.polymorphic.PhoneTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.hj.JavaSe.polymorphic.PhoneTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.hj.JavaSe.polymorphic.Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.hj.JavaSe.polymorphic.Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.hj.JavaSe.polymorphic.people.PeopleTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.hj.JavaSe.polymorphic.people.PeopleTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.hj.JavaSe.Demo01Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.hj.JavaSe.Demo01Test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.hj.JavaSe.polymorphic.PhoneTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.hj.JavaSe.polymorphic.PhoneTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.hj.JavaSe.polymorphic.Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.hj.JavaSe.polymorphic.Test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.hj.JavaSe.polymorphic.people.PeopleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.hj.JavaSe.polymorphic.people.PeopleTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hj/JavaSe/Demo01Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hj/JavaSe/design_pattern/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hj/JavaSe/design_pattern/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hj/JavaSe/polymorphic/PhoneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hj/JavaSe/polymorphic/PhoneTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hj/JavaSe/polymorphic/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hj/JavaSe/polymorphic/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hj/JavaSe/polymorphic/people/PeopleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hj/JavaSe/polymorphic/people/PeopleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hj/JavaSe/polymorphic/people/PersonTwoTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hj/JavaSe/polymorphic/people/PersonTwoTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hj/JavaSe/polymorphic/people/PersonTwoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hj/JavaSe/polymorphic/people/PersonTwoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/hashsetDemoOne/CatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/hashsetDemoOne/CatTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/set/hashsetDemoOne/CatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/set/hashsetDemoOne/CatTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,24 +36,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/hashsetDemoOne/CatTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+            <state relative-caret-position="378">
+              <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/hashsetDemoOne/Cat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
-              <folding>
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#1542#1543#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -186,7 +108,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="771" />
+    <option name="x" value="688" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="823" />
@@ -226,7 +148,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551530470828" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551602579026" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -320,32 +242,11 @@
       <updated>1551450554076</updated>
       <workItem from="1551450555504" duration="1079000" />
       <workItem from="1551519590545" duration="824000" />
-      <workItem from="1551520636024" duration="9020000" />
+      <workItem from="1551520636024" duration="11420000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NoticeTest_testListOne - 2019.03.02 at 18h 55m 51s.xml">
-      <configuration name="NoticeTest.testListOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HashSetTest_testOne - 2019.03.02 at 19h 28m 58s.xml">
-      <configuration name="HashSetTest.testOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HashSetTest_testOne - 2019.03.02 at 19h 32m 53s.xml">
-      <configuration name="HashSetTest.testOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HashSetTest_testOne - 2019.03.02 at 19h 33m 28s.xml">
-      <configuration name="HashSetTest.testOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HashSetTest_testOne - 2019.03.02 at 19h 34m 22s.xml">
-      <configuration name="HashSetTest.testOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CatTest_CatHashSet - 2019.03.02 at 20h 11m 06s.xml">
-      <configuration name="CatTest.CatHashSet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CatTest_CatHashSet - 2019.03.02 at 20h 11m 23s.xml">
-      <configuration name="CatTest.CatHashSet" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CatTest_CatHashSet - 2019.03.02 at 20h 13m 12s.xml">
       <configuration name="CatTest.CatHashSet" configurationId="JUnit" />
     </history-entry>
@@ -355,12 +256,33 @@
     <history-entry file="CatTest_CatHashSet - 2019.03.02 at 20h 40m 10s.xml">
       <configuration name="CatTest.CatHashSet" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CatTest_CatHashSet - 2019.03.02 at 20h 41m 29s.xml">
+      <configuration name="CatTest.CatHashSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatTest_CatHashSet - 2019.03.03 at 16h 23m 15s.xml">
+      <configuration name="CatTest.CatHashSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatTest_CatHashSet - 2019.03.03 at 16h 24m 03s.xml">
+      <configuration name="CatTest.CatHashSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatTest_CatHashSet - 2019.03.03 at 16h 24m 23s.xml">
+      <configuration name="CatTest.CatHashSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatTest_CatHashSet - 2019.03.03 at 16h 26m 54s.xml">
+      <configuration name="CatTest.CatHashSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatTest_CatHashSet - 2019.03.03 at 16h 27m 33s.xml">
+      <configuration name="CatTest.CatHashSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatTest_CatHashSet - 2019.03.03 at 16h 34m 14s.xml">
+      <configuration name="CatTest.CatHashSet" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10923000" />
+    <option name="totallyTimeSpent" value="13323000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="771" y="23" width="1440" height="823" extended-state="0" />
+    <frame x="688" y="23" width="1440" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.20529328" />
@@ -532,8 +454,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/hashsetDemoOne/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+        <state relative-caret-position="361">
+          <caret line="61" column="37" lean-forward="true" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
           <folding>
             <element signature="e#401#402#0" expanded="true" />
             <element signature="e#428#429#0" expanded="true" />
@@ -544,8 +466,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/hashsetDemoOne/CatTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+        <state relative-caret-position="378">
+          <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
