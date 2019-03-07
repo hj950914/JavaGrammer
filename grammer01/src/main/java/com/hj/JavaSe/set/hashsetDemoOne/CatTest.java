@@ -19,12 +19,12 @@ public class CatTest {
         Cat huahua = new Cat("花花", 12, "英国短毛猫");
         Cat fanfan = new Cat("凡凡", 3, "中华田园猫");
         //将宠物猫对象放入HashSet中
-        Set set = new HashSet();
+        Set<Cat> set = new HashSet<Cat>();
         set.add(huahua);
         set.add(fanfan);
         //显示宠物猫信息
         System.out.println("宠物猫信息:");
-        Iterator iterator = set.iterator();
+        Iterator<Cat> iterator = set.iterator();
         while (iterator.hasNext()) {
             System.out.println(iterator.next().toString());
         }
@@ -65,11 +65,11 @@ public class CatTest {
 
         //在集合中使用名字查找花花的信息
         System.out.println("通过名字查找花花的信息");
-        iterator=set.iterator();
+        iterator = set.iterator();
         boolean flag = false;
         Cat c = null;
         while (iterator.hasNext()) {
-            c = (Cat) iterator.next();
+            c = iterator.next();
             if (c.getName().equals("花花")) {
                 flag = true;//找到花花了
                 break;
@@ -84,6 +84,26 @@ public class CatTest {
         }
         System.out.println("************************************************");
 
-        //
+        //删除花花二代的信息并重新输出
+        for (Cat cat : set) {
+            if ("花花2代".equals(cat.getName())) {
+                set.remove(cat);
+                break;
+            }
+        }
+        //输出set集合
+        System.out.println("删除花花2代后");
+        for (Cat cat : set) {
+            System.out.println(cat.toString());
+        }
+        System.out.println("************************************************");
+
+        //删除set集合中所有的数据
+        if (set.removeAll(set)) {
+            System.out.println("删除set集合数据成功");
+            for (Cat cat:set){
+                System.out.println(cat.toString());
+            }
+        }
     }
 }
