@@ -1,9 +1,6 @@
-package com.hj.JavaSe;
+package com.hj.JavaSe.arithmetic;
 
 import org.junit.Test;
-import org.junit.internal.runners.model.EachTestNotifier;
-
-import java.util.List;
 
 /**
  * Author: hj

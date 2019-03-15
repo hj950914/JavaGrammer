@@ -1,4 +1,4 @@
-package com.hj.JavaSe;
+package com.hj.JavaSe.arithmetic;
 
 
 import javax.swing.text.StyledEditorKit;
@@ -39,6 +39,18 @@ public class Demo01 {
         } else {
             System.out.println(year + " 不是闰年");
         }
+        ///*
+        //
+        //
+        //
+        // int/*/*/*/*/**/*/*/*/*/*/
+        //equals()
+        ///**//*/**/*//**/
+        ///**/
+        /*if {
+            //return;
+        }*//**/
+
     }
 
 

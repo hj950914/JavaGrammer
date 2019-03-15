@@ -1,4 +1,4 @@
-package com.hj.JavaSe;
+package com.hj.JavaSe.arithmetic;
 
 /**
  * Author: hj
