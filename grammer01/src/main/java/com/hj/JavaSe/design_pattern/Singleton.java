@@ -1,7 +1,5 @@
 package com.hj.JavaSe.design_pattern;
 
-import javax.swing.*;
-import java.util.Arrays;
 
 /**
  * Author: hj
