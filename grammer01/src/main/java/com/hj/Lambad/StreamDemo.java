@@ -55,8 +55,8 @@ public class StreamDemo {
         Arrays.stream(a).filter(x -> {
             return x%2 == 0;
         })
-                .forEach(System.out::println);
-        System.out.println("*************************************************");
+                .forEach(e -> System.out.print(e + " "));
+        System.out.println("\n" + "*************************************************");
 
         /*
          * 2:计算偶数和
@@ -71,7 +71,7 @@ public class StreamDemo {
          * */
         int[] c = {1, 2, 3, 4, 5, 6};
         //方法1
-        int max = Stream.of(1, 2, 3, 4, 5, 6).max((x, y) -> x - y).get();
+        int max = Stream.of(1, 2, 3, 4, 5, 6).max(Comparator.comparingInt(x -> x)).get();
         //方法2
         int max2 = Arrays.stream(c).max().getAsInt();
         System.out.println("最大值:" + max);
@@ -121,7 +121,7 @@ public class StreamDemo {
             String[] array = {"aA", "BBa", "aa", "aQWE"};
 
             // f(n) = n + 1;
-            Function<Integer, Integer> fn = n -> n+1;
+            Function<Integer, Integer> fn = n -> n + 1;
             // f(1) = 2;
             System.out.println(fn.apply(1));
             // f(2) = 3;

@@ -54,10 +54,9 @@ public class ObjectAndSystem {
      * System类的一些常用方法:数组复制(案例在同包的ArrayTest类里),out,err.
      * */
     @Test
-    public void testErr(){
+    public void testErr() {
 
     }
-
 
 
 }

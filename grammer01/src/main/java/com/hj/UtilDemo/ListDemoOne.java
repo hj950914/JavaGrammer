@@ -10,7 +10,7 @@ import java.util.Random;
 /**
  * Author: hj
  * Date: 2019-03-14 19:17
- * Description: <List案例1>
+ * Description: <List案例1(List里面有大多数String类里的方法)>
  */
 public class ListDemoOne {
     /*

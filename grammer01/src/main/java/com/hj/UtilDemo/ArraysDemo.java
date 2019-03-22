@@ -3,7 +3,6 @@ package com.hj.UtilDemo;
 import org.junit.Test;
 
 import java.util.*;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 /**
@@ -12,6 +11,7 @@ import java.util.stream.Collectors;
  * Description: <Arrays类的常用方法(基本都是对数组进行操作)>
  */
 public class ArraysDemo {
+
 
     /*
      * 1:copyOf()--数值复制扩容
@@ -112,9 +112,9 @@ public class ArraysDemo {
          * 7:返回数组的流Stream，然后我们就可以使用Stream相关的许多方法了
          * */
         {
-            int[] a={1,2,3,4,5,5};
-            List<Integer> list= Arrays.stream(a).boxed().collect(Collectors.toList());
-            list.forEach(e -> System.out.print(e+" "));
+            int[] a = {1, 2, 3, 4, 5, 5};
+            List<Integer> list = Arrays.stream(a).boxed().collect(Collectors.toList());
+            list.forEach(e -> System.out.print(e + " "));
         }
     }
 
