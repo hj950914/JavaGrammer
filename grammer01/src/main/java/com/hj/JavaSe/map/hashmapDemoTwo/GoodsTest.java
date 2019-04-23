@@ -12,7 +12,7 @@ public class GoodsTest {
     public static void main(String arg[]) {
         Scanner scanner = new Scanner(System.in);
         //定义HashMap对象
-        Map<String, Goods> goodsMap = new HashMap<String, Goods>();
+        Map<String, Goods> goodsMap = new HashMap<>();
         System.out.println("请输入三条商品信息:");
         int i = 0;
         while (i < 3) {

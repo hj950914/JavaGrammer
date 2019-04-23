@@ -2,6 +2,11 @@ package com.hj.JavaSe.arithmetic;
 
 import org.junit.Test;
 
+import javax.swing.*;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Set;
+
 /**
  * Author: hj
  * Date: 2018-12-31 00:42
@@ -34,7 +39,19 @@ public class Demo01Test {
         for (int i:ints){
             System.out.print(i+" ");
         }
+        System.out.println();
 
+        System.out.println("使用工具类合并数组:");
+        Integer[] a1={2,10,14,19,51,71};
+        Integer[] a2={2,9,10,14,40,51};
+        List<Integer> list = demo01.arrayCombine3(a1, a2);
+        System.out.println((list));
+        System.out.println();
+
+        System.out.println("使用apache-commons包:");
+        List<Integer> list1 = demo01.arrayCombine4(a1, a2);
+        System.out.println(list1);
+        System.out.println();
 
         System.out.println();
         int []result=demo01.RemoveEqualArray2(demo01.ArrayCombine(a,b));
@@ -74,14 +91,13 @@ public class Demo01Test {
     @Test
     public void test02(){
 
-        int[]a={11,10,12,21,13,31,17,14,87,14};
+        int[]a={11,10,12,21,13,31,17,14,87,14,1};
 
         Arithmetic arithmetic = new Arithmetic();
         System.out.println();
-        System.out.print("结果");
-        for (int value:arithmetic.sort1(a)) {
-            System.out.print(value+" ");
-        }
+        int[] arrays = arithmetic.sort2(a);
+        System.out.print("最终结果"+ Arrays.toString(arrays));
+
     }
 
 }

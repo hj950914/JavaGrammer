@@ -1,10 +1,11 @@
 package com.hj.JavaSe.arithmetic;
 
 
+import org.apache.commons.lang3.ArrayUtils;
+
 import javax.swing.text.StyledEditorKit;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
+import java.util.stream.Collectors;
 
 /**
  * Author: hj
@@ -126,6 +127,33 @@ public class Demo01 {
         NewArray2 = new int[k];
         System.arraycopy(NewArray, 0, NewArray2, 0, k);
         return NewArray2;
+    }
+
+    /*
+     * 数组合并,借助工具类
+     * */
+    public List<Integer> arrayCombine3(Integer[] arrayOne, Integer[] arrayTwo) {
+        Integer[] integers = new Integer[arrayOne.length + arrayTwo.length];
+        System.arraycopy(arrayOne, 0, integers, 0, arrayOne.length);
+        System.arraycopy(arrayTwo, 0, integers, arrayOne.length, arrayTwo.length);
+        Set<Integer> set = new HashSet<>(Arrays.asList(integers));
+        List<Integer> list = new ArrayList<>(set);
+        Collections.sort(list);
+        return list;
+    }
+
+    /*
+     * 数组合并,借助Apache-commons包
+     * */
+    public List<Integer> arrayCombine4(Integer[] arrayOne, Integer[] arrayTwo) {
+        //数组合并
+        Integer[] addAll = ArrayUtils.addAll(arrayOne, arrayTwo);
+        //去除重复
+        Set<Integer> set = new HashSet<>(Arrays.asList(addAll));
+        //排序
+        List<Integer> list = new ArrayList<>(set);
+        Collections.sort(list);
+        return list;
     }
 
     //消除数组中相同元素1

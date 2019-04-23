@@ -1,6 +1,12 @@
 package com.hj.JavaSe.design_pattern.factory.FactoryMethod;
 
 
+import com.hj.JavaSe.design_pattern.factory.FactoryMethod.factory.IFactory;
+import com.hj.JavaSe.design_pattern.factory.FactoryMethod.factory.impl.AddFactory;
+import com.hj.JavaSe.design_pattern.factory.FactoryMethod.factory.impl.MultiplyFactory;
+import com.hj.JavaSe.design_pattern.factory.FactoryMethod.factory.impl.SubFactory;
+import com.hj.JavaSe.design_pattern.factory.FactoryMethod.operation.Operation;
+
 /**
  * Author: hj
  * Date: 2019-03-18 18:40
@@ -30,5 +36,12 @@ public class Test {
         oper.setNumberA(100);
         oper.setNumberB(120);
         System.out.println("减法结果:"+oper.GetResult());
+
+        //实例化乘法工厂
+        iFactory=new MultiplyFactory();
+        oper = iFactory.createOperation();
+        oper.setNumberA(10);
+        oper.setNumberB(10);
+        System.out.println("乘法结果:"+oper.GetResult());
     }
 }

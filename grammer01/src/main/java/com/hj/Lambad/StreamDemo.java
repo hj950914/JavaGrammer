@@ -82,6 +82,8 @@ public class StreamDemo {
          * 4:整形数组转List,然后倒序排序
          * */
         int[] d = {1, 2, 3, 4, 5, 6};
+        //Integer[] d1 = {1, 2, 3, 4, 5, 6};
+        //List<Integer> list1 = new ArrayList<>(Arrays.asList(d1));
         List<Integer> list = Arrays.stream(d).boxed().sorted(Comparator.reverseOrder()).collect(Collectors.toList());
         //方式2List<Integer> list2 = list.stream().sorted(Comparator.reverseOrder()).collect(Collectors.toList());
         System.out.println("倒序排序结果:" + list);
@@ -91,7 +93,7 @@ public class StreamDemo {
          * 字符串数组转List
          * */
         String[] s = {"a", "b"};
-        List<String> list1 = new ArrayList<>(asList(s));
+        List<String> list1 = new ArrayList<>(Arrays.asList(s));
         System.out.println(list1);
         System.out.println("*************************************************");
 
@@ -109,9 +111,10 @@ public class StreamDemo {
          * */
         {
             String str = "AbCdEfGhJkL";
-            int count = (int) str.chars().filter(Character::isLowerCase).count();
+            int count = (int) str.chars().filter(e -> Character.isLowerCase(e)).count();
             System.out.println("字符串" + str + "小写字母个数:" + count);
             System.out.println("*******************************************************");
+
         }
 
         /*
@@ -126,7 +129,6 @@ public class StreamDemo {
             System.out.println(fn.apply(1));
             // f(2) = 3;
             System.out.println(fn.apply(2));
-
 
             String result = Arrays.stream(array)
                     .max(Comparator.comparing(s -> {

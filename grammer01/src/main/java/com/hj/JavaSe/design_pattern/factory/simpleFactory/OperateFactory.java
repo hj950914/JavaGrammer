@@ -18,7 +18,9 @@ public class OperateFactory {
             case "-":
                 oper = new Sub();
                 break;
-
+            case "*":
+                oper = new Multiply();
+                break;
         }
         return oper;
     }

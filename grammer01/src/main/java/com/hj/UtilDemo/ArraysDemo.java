@@ -104,6 +104,8 @@ public class ArraysDemo {
         {
             int[] a = {1};
             int[] b = {1};
+            System.out.println(a.equals(b));
+            System.out.println(a==b);
             System.out.println("数组a的hashode值:" + Arrays.hashCode(a));
             System.out.println("数组b的hashode值:" + Arrays.hashCode(b));
             System.out.println("******************************************");

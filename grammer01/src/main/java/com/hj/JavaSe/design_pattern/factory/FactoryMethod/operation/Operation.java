@@ -1,4 +1,4 @@
-package com.hj.JavaSe.design_pattern.factory.FactoryMethod;
+package com.hj.JavaSe.design_pattern.factory.FactoryMethod.operation;
 
 /**
  * Author: hj
@@ -10,7 +10,7 @@ public class Operation {
     private double NumberA;
     private double NumberB;
 
-    public Operation(){
+    public Operation() {
 
     }
 
@@ -32,7 +32,6 @@ public class Operation {
 
     //返回计算结果
     public double GetResult() {
-        double result = 0;
-        return result;
+        return (double) 0;
     }
 }

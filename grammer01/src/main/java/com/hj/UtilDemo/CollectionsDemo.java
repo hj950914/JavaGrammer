@@ -128,7 +128,7 @@ public class CollectionsDemo {
             int[] b = {0, 1, 2, 3, 4};
             List<Integer> listB = Arrays.stream(b).boxed().collect(Collectors.toList());
             //开始复制
-            System.out.println("集合复制:");
+            System.out.println("集合复制和覆盖:");
             Collections.copy(listA, listB);
             listA.forEach(e -> System.out.print(e + " "));//结果0,1,2,3,4,10,11
             System.out.println("\n" + "************************************************************");
@@ -177,7 +177,7 @@ public class CollectionsDemo {
          * */
         {
             //定义一个大小为6的list集合,里面元素为6个"mac"
-            Collections.nCopies(6, "mac").forEach(e -> System.out.print(e + " "));
+            Collections.nCopies(6, "mac").forEach(System.out::print);
             System.out.println("\n" + "********************************************************");
         }
     }

@@ -11,7 +11,6 @@ public class Sub extends Operation {
 
     @Override
     public double GetResult() {
-        double result =getNumberA()-getNumberB();
-        return result;
+        return getNumberA()-getNumberB();
     }
 }

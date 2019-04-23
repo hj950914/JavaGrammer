@@ -20,14 +20,14 @@ public class NoticeTest {
         Notice notice3 = new Notice(3, "考勤通知", "老师", new Date());
 
         //添加公告
-        ArrayList noticeList = new ArrayList();
+        ArrayList<Notice> noticeList = new ArrayList<>();
         noticeList.add(notice1);
         noticeList.add(notice2);
         noticeList.add(notice3);
         //显示公告
         System.out.println("公告内容为:");
         for (int i = 0; i < noticeList.size(); i++) {
-            System.out.println(i + 1 + ":" + ((Notice) noticeList.get(i)).getTitle());
+            System.out.println(i + 1 + ":" + (noticeList.get(i)).getTitle());
         }
         System.out.println("*********************************************************");
 
@@ -38,7 +38,7 @@ public class NoticeTest {
         //显示公告
         System.out.println("添加完后的公告:");
         for (int i = 0; i < noticeList.size(); i++) {
-            System.out.println(i + 1 + ":" + ((Notice) noticeList.get(i)).getTitle());
+            System.out.println(i + 1 + ":" + (noticeList.get(i)).getTitle());
         }
         System.out.println("**********************************************************");
 
@@ -48,7 +48,7 @@ public class NoticeTest {
         //显示公告
         System.out.println("删除公告后:");
         for (int i = 0; i < noticeList.size(); i++) {
-            System.out.println(i + 1 + ":" + ((Notice) noticeList.get(i)).getTitle());
+            System.out.println(i + 1 + ":" + noticeList.get(i).getTitle());
         }
         System.out.println("***********************************************************");
 
@@ -57,7 +57,7 @@ public class NoticeTest {
         //显示公告
         System.out.println("更改公告后:");
         for (int i = 0; i < noticeList.size(); i++) {
-            System.out.println(i + 1 + ":" + ((Notice) noticeList.get(i)).getTitle());
+            System.out.println(i + 1 + ":" + noticeList.get(i).getTitle());
         }
         System.out.println("************************************************************");
 

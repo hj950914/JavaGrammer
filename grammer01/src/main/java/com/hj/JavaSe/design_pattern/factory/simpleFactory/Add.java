@@ -1,6 +1,5 @@
 package com.hj.JavaSe.design_pattern.factory.simpleFactory;
 
-import java.sql.ResultSet;
 
 /**
  * Author: hj
@@ -11,7 +10,6 @@ public class Add extends Operation {
 
     @Override
     public double GetResult() {
-        double result = getNumberA() + getNumberB();
-        return result;
+        return getNumberA() + getNumberB();
     }
 }

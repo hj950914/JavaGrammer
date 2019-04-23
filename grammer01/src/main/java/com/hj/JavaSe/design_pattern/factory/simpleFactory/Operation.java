@@ -1,6 +1,5 @@
 package com.hj.JavaSe.design_pattern.factory.simpleFactory;
 
-import java.util.zip.DeflaterOutputStream;
 
 /**
  * Author: hj
@@ -12,7 +11,7 @@ public class Operation {
     private double NumberA;
     private double NumberB;
 
-    public Operation(){
+    public Operation() {
 
     }
 

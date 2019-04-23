@@ -22,6 +22,7 @@ public class MapDemoOne {
      * */
 
     public static void main(String srgs[]) {
+
         System.out.print("请输入举办年份:");
         //键盘读取
         String year = new Scanner(System.in).next();
@@ -47,6 +48,8 @@ public class MapDemoOne {
         } else {
             System.out.println(year + "年没有举办世界杯");
         }
+
+
         System.out.println("*****************************************************************************");
         System.out.print("请输入球队名字:");
         String footballName = new Scanner(System.in).next();
@@ -56,10 +59,23 @@ public class MapDemoOne {
         } else {
             System.out.print("获得冠军的年份:");
             for (String s : map.keySet()) {
-                if (map.get(s).equals(footballName)){
-                    System.out.print(s+" ");
+                if (map.get(s).equals(footballName)) {
+                    System.out.print(s + " ");
                 }
             }
         }
+
+        //方法2
+        /*String valueName = new Scanner(System.in).next();
+        if (map.containsValue(valueName)) {
+            Set<Map.Entry<String, String>> entrySet = map.entrySet();
+            for (Map.Entry<String, String> entry : entrySet) {
+                if (entry.getValue().equals(valueName)) {
+                    System.out.print(entry.getKey() + " ");
+                }
+            }
+        } else {
+            System.out.println(valueName + "没有获得过世界杯");
+        }*/
     }
 }

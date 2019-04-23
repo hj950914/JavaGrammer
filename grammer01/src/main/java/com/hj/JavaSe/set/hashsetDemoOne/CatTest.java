@@ -19,14 +19,14 @@ public class CatTest {
         Cat huahua = new Cat("花花", 12, "英国短毛猫");
         Cat fanfan = new Cat("凡凡", 3, "中华田园猫");
         //将宠物猫对象放入HashSet中
-        Set<Cat> set = new HashSet<Cat>();
+        Set<Cat> set = new HashSet<>();
         set.add(huahua);
         set.add(fanfan);
         //显示宠物猫信息
         System.out.println("宠物猫信息:");
         Iterator<Cat> iterator = set.iterator();
         while (iterator.hasNext()) {
-            System.out.println(iterator.next().toString());
+            System.out.println(iterator.next());
         }
         System.out.println("************************************************");
 
@@ -101,7 +101,7 @@ public class CatTest {
         //删除set集合中所有的数据
         if (set.removeAll(set)) {
             System.out.println("删除set集合数据成功");
-            for (Cat cat:set){
+            for (Cat cat : set) {
                 System.out.println(cat.toString());
             }
         }

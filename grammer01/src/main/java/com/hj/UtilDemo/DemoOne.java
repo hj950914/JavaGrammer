@@ -213,15 +213,26 @@ public class DemoOne {
      * */
     @Test
     public void testEight() {
+        /*
+         * 方法1:
+         * 把字符串分隔成单个字符
+         * */
         String[] str = {"abc", "bcd"};
         List<String> list = Arrays.asList(str);
         //将集合中字符串装换成字符数组
-        char[] chars = (list.get(0) + list.get(1)).toCharArray();
+        char[] chars = (str[0] + str[1]).toCharArray();
         //将字符数组转换成list
         List<Character> list1 = new ArrayList<>();
-        for (char c : chars) {
+        for (Character c : chars) {
             list1.add(c);
         }
+        /*
+        * 方法2:
+        * 把字符串分隔成单个字符
+        * */
+        List<String> list2 = Arrays.stream(str).map(e -> e.split("")).flatMap(Arrays::stream).collect(Collectors.toList());
+        System.out.println(list2);
+
         System.out.println(list1);
         //HashMap具有筛选功能,当添加相同的key时,可以自动合并"map.put(c, map.containsKey(c) ? map.get(c) + 1 : 1)"
         Map<Character, Integer> map = new HashMap<>();
@@ -230,11 +241,8 @@ public class DemoOne {
             map.put(c, map.containsKey(c) ? map.get(c) + 1 : 1);
             System.out.println(map);
         }
-        System.out.println("最终结果:"+map);
+        System.out.println("最终结果:" + map);
     }
 
-    /*
-    *
-    * */
 
 }

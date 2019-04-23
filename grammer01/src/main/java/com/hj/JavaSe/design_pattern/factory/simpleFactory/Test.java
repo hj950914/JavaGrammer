@@ -17,7 +17,11 @@ public class Test {
         operation=OperateFactory.createOperate("-");
         operation.setNumberA(10);
         operation.setNumberB(7);
-        System.out.println("减法结果"+operation.GetResult());
+        System.out.println("减法结果:"+operation.GetResult());
+        operation = OperateFactory.createOperate("*");
+        operation.setNumberA(10);
+        operation.setNumberB(10);
+        System.out.println("乘法结果:"+operation.GetResult());
     }
 
 }

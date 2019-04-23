@@ -23,7 +23,7 @@ public class DemoOne {
         list.add("Red");
         list.add("Yellow");
         //字符串变小写
-        List<String> newList = list.stream().map(String::toUpperCase).collect(Collectors.toList());
+        List<String> newList = list.stream().map(s -> s.toUpperCase()).collect(Collectors.toList());
         System.out.println(newList);
         //所有的字符串添加统一前缀 "A-"
         newList = list.stream().map(e -> "A-" + e).collect(Collectors.toList());
@@ -37,22 +37,21 @@ public class DemoOne {
                     String[] tokens = e.split("");
                     return new ArrayList<>(asList(tokens));
                 })
-                .flatMap(Collection::stream)
+                .flatMap(s -> s.stream())
                 .collect(Collectors.toList());
         System.out.println(newList);
-
 
     }
 
     @Test
-    public void testTwo(){
-        List<Integer> list= new ArrayList<>();
+    public void testTwo() {
+        List<Integer> list = new ArrayList<>();
         list.add(1);
         list.add(2);
         list.add(7);
         list.add(6);
         //累加
-        Integer newList=list.stream().reduce(0,(acc, e)-> acc+e);
+        Integer newList = list.stream().reduce(0, (acc, e) -> acc + e);
         System.out.println(newList);
 
         //排序

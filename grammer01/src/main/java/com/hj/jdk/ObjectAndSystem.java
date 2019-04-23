@@ -22,6 +22,7 @@ public class ObjectAndSystem {
         String s3 = new String("hj");
         String s4 = new String("hj");
         System.out.println(s3.equals(s4));//true
+        System.out.println(s3 == s4);//false
         System.out.println("******************************");
 
         Student student1 = new Student("hj", 23);

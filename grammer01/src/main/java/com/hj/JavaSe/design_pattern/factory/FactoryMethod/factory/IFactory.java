@@ -1,4 +1,6 @@
-package com.hj.JavaSe.design_pattern.factory.FactoryMethod;
+package com.hj.JavaSe.design_pattern.factory.FactoryMethod.factory;
+
+import com.hj.JavaSe.design_pattern.factory.FactoryMethod.operation.Operation;
 
 /**
  * Author: hj
