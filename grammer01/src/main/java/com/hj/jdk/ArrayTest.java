@@ -46,12 +46,12 @@ public class ArrayTest {
          * arraycopy()方法:演示数组复制
          * */
         int[] c = {1, 2, 3, 4, 5};
-        int[] d=new int[c.length];
+        int[] d = new int[c.length];
         //原数组,要复制的起始索引,新数组,新数组的起始索引,复制的长度
-        System.arraycopy(c,0,d,0,c.length);
+        System.arraycopy(c, 0, d, 0, c.length);
         System.out.print("数值复制后,数组d结果为:");
-        for (Integer i:d){
-            System.out.print(i+",");
+        for (Integer i : d) {
+            System.out.print(i + ",");
         }
     }
 
