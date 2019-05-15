@@ -48,6 +48,46 @@ public class Arithmetic {
     }
 
     /**
+     * 冒泡排序,按照从大到小
+     */
+    public static Integer[] sort3(Integer[] arrays) {
+        int tmp;
+        for (int i = 0; i < arrays.length - 1; i++) {
+            for (int j = 0; j < arrays.length - i - 1; j++) {
+                if (arrays[j] < arrays[j + 1]) {
+                    tmp = arrays[j];
+                    arrays[j] = arrays[j + 1];
+                    arrays[j + 1] = tmp;
+                }
+            }
+        }
+        return arrays;
+    }
+
+    /**
+     * 插入排序
+     */
+    public static Integer[] sort4(Integer[] arrays) {
+        for (int i = 1; i < arrays.length; i++) {
+            int tmp = arrays[i];
+            for (int j = i; j > 0; j--) {
+                if (arrays[j - 1] > tmp) {
+                    arrays[j] = arrays[j - 1];
+                    if (j == 1) {
+                        arrays[j - 1] = tmp;
+                        break;
+                    }
+                } else {
+                    arrays[j] = tmp;
+                    break;
+                }
+            }
+        }
+        return arrays;
+    }
+
+
+    /**
      * 归并排序
      *
      * @param arrayA
@@ -131,6 +171,8 @@ public class Arithmetic {
         Integer[] c = {2, 6, 9, 4, 1, 2, 34, 6, 7, 89};
         //Integer[] integers = new Arithmetic().mergeOne(a, b);
         //System.out.println(Arrays.toString(integers));
-        new Arithmetic().mergeSort(c, 0, c.length - 1);
+        //new Arithmetic().mergeSort(c, 0, c.length - 1);
+        //System.out.println(Arrays.toString(Arithmetic.sort3(c)));
+        System.out.println(Arrays.toString(Arithmetic.sort4(c)));
     }
 }
