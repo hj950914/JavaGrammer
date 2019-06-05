@@ -52,9 +52,7 @@ public class StreamDemo {
          * 1:整形数组过滤基数
          * */
         int[] a = {1, 2, 3, 4, 5, 6};
-        Arrays.stream(a).filter(x -> {
-            return x%2 == 0;
-        })
+        Arrays.stream(a).filter(x -> x%2 == 0)
                 .forEach(e -> System.out.print(e + " "));
         System.out.println("\n" + "*************************************************");
 
@@ -111,9 +109,13 @@ public class StreamDemo {
          * */
         {
             String str = "AbCdEfGhJkL";
-            int count = (int) str.chars().filter(e -> Character.isLowerCase(e)).count();
+            int count = (int) str.chars().filter(Character::isLowerCase)
+                    .count();
             System.out.println("字符串" + str + "小写字母个数:" + count);
-            System.out.println("*******************************************************");
+            System.out.print("小写字母->");
+            str.chars().filter(Character::isLowerCase)
+                    .forEach(e -> System.out.print((char) e));
+            System.out.println("\n" + "*******************************************************");
 
         }
 

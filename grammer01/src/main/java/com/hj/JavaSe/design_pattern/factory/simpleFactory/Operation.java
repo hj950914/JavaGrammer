@@ -33,7 +33,6 @@ public class Operation {
 
     //返回计算结果
     public double GetResult() {
-        double result = 0;
-        return result;
+        return (double) 0;
     }
 }

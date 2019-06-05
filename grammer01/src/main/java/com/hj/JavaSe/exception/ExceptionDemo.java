@@ -22,12 +22,8 @@ public class ExceptionDemo {
          * */
         try {
             System.out.println(1/0);
-        } catch (InputMismatchException e) {
-            e.printStackTrace();
-        } catch (ArithmeticException e1) {
+        } catch (Exception e1) {
             e1.printStackTrace();
-        } catch (Exception e) {
-            e.printStackTrace();
         } finally {
             System.out.println("我最终做会被执行");
         }

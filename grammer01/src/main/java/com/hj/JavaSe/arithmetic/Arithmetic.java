@@ -172,7 +172,7 @@ public class Arithmetic {
         //Integer[] integers = new Arithmetic().mergeOne(a, b);
         //System.out.println(Arrays.toString(integers));
         //new Arithmetic().mergeSort(c, 0, c.length - 1);
-        //System.out.println(Arrays.toString(Arithmetic.sort3(c)));
-        System.out.println(Arrays.toString(Arithmetic.sort4(c)));
+        System.out.println(Arrays.toString(Arithmetic.sort3(c)));
+        //System.out.println(Arrays.toString(Arithmetic.sort4(c)));
     }
 }
