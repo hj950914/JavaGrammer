@@ -51,7 +51,7 @@ public class DemoOne {
         list.add(7);
         list.add(6);
         //累加
-        Integer newList = list.stream().reduce(0, (acc, e) -> acc + e);
+        Integer newList = list.stream().reduce( 0,(acc, e) -> acc + e);
         System.out.println(newList);
 
         //排序

@@ -10,7 +10,7 @@ import org.junit.Test;
 public class test {
 
     @Test
-    public void test(){
+    public void test() {
         //获取单例
         Singleton singleton = Singleton.getInstance();
         Singleton singleton1 = Singleton.getInstance();

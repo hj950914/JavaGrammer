@@ -1,6 +1,11 @@
 package com.hj.jdk;
 
 import org.junit.Test;
+import sun.misc.VM;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 
 /**
  * Author: hj
@@ -34,7 +39,6 @@ public class ObjectAndSystem {
     //hashCode():对象的哈希值
     @Test
     public void testHashcode() {
-
     }
 
     //toString():如果没有重写toString方法,就是返回对象的字符串表示(包.类@内存地址)
@@ -47,7 +51,8 @@ public class ObjectAndSystem {
     //clone():对象复制
     @Test
     public void testClone() {
-
+        List<Integer> list = new ArrayList<>();
+        list.add(1);
     }
 
 

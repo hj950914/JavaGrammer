@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdbe1bb5-fea9-44db-83c9-ebb2fade6484" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hj/jdk/equals_hashcode/CaseInsensitiveString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hj/jdk/equals_hashcode/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../111.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestOne/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestOne/.idea/vcs.xml" beforeDir="false" />
@@ -13,18 +15,15 @@
       <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/demo.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Arithmetic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/exception/ExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/exception/ExceptionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/string/StringTestOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/string/StringTestOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/Lambad/StreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/Lambad/StreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/arithmetic/Arithmetic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/arithmetic/Arithmetic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/arithmetic/Demo01Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/arithmetic/Demo01Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/design_pattern/factory/simpleFactory/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/design_pattern/factory/simpleFactory/Operation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/exception/ExceptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/exception/ExceptionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/Lambad/StreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/Lambad/StreamDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/practice/DemoOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/practice/DemoOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/jdk/ObjectAndSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/jdk/ObjectAndSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hj/JavaSe/design_pattern/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hj/JavaSe/design_pattern/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/practice/DemoOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/practice/DemoOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/jdk/ObjectAndSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/jdk/ObjectAndSystem.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +47,27 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Arithmetic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="74" column="30" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#sort1#0;class#Arithmetic#0" />
+                <element signature="method#sort2#0;class#Arithmetic#0" />
+                <element signature="method#sort3#0;class#Arithmetic#0" />
+                <element signature="method#sort4#0;class#Arithmetic#0" />
+                <element signature="method#merge#0;class#Arithmetic#0" />
+                <element signature="method#mergeSort#0;class#Arithmetic#0" />
+                <element signature="method#mergeOne#0;class#Arithmetic#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,9 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/hj/Lambad/LambdaDemoTwo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hj/Lambad/LambdaCreateDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/Singleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/SimpleFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/OperateFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/aa.java" />
@@ -78,7 +94,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/SubFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/UtilPractice.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/Student.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Add.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Sub.java" />
@@ -98,23 +113,27 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/map/hashmapDemoTwo/GoodsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/hashsetDemoOne/CatTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/listDemoOne/NoticeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hj/jdk/ObjectAndSystem.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/jdk/StringTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hj/Lambad/LambdaDemoOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/ArraysDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/ListDemoOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/MapDemoOne.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/practice/DemoOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/jdk/ArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Arithmetic.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Operation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/exception/ExceptionDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/string/StringTestOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/wrap/WrapTestOne.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hj/Lambad/StreamDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/CollectionsDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/DemoOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/exception/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hj/jdk/equals_hashcode/CaseInsensitiveString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hj/jdk/equals_hashcode/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hj/JavaSe/design_pattern/test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hj/jdk/ObjectAndSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hj/Lambad/LambdaDemoOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hj/Lambad/StreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/practice/DemoOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Arithmetic.java" />
       </list>
     </option>
   </component>
@@ -176,8 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,19 +228,111 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hj" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grammer01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hj" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grammer01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hj" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
+              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grammer01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hj" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grammer01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hj" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grammer01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hj" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grammer01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hj" type="462c0819:PsiDirectoryNode" />
+              <item name="UtilDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grammer01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grammer01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grammer01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grammer01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559721604110" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562580144705" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
@@ -249,49 +358,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CollectionsDemo.testThree">
-    <configuration name="CollectionsDemo.testOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Arithmetic.test1">
+    <configuration name="Arithmetic.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="grammer01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hj.UtilDemo.*" />
+          <option name="PATTERN" value="com.hj.JavaSe.arithmetic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.hj.UtilDemo" />
-      <option name="MAIN_CLASS_NAME" value="com.hj.UtilDemo.CollectionsDemo" />
+      <option name="PACKAGE_NAME" value="com.hj.JavaSe.arithmetic" />
+      <option name="MAIN_CLASS_NAME" value="com.hj.JavaSe.arithmetic.Arithmetic" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoOne.testOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="grammer01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hj.JavaSe.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hj.JavaSe.practice" />
+      <option name="MAIN_CLASS_NAME" value="com.hj.JavaSe.practice.DemoOne" />
       <option name="METHOD_NAME" value="testOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionsDemo.testThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DemoOne.testTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="grammer01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hj.UtilDemo.*" />
+          <option name="PATTERN" value="com.hj.JavaSe.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.hj.UtilDemo" />
-      <option name="MAIN_CLASS_NAME" value="com.hj.UtilDemo.CollectionsDemo" />
-      <option name="METHOD_NAME" value="testThree" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectionsDemo.testTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="grammer01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hj.UtilDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hj.UtilDemo" />
-      <option name="MAIN_CLASS_NAME" value="com.hj.UtilDemo.CollectionsDemo" />
+      <option name="PACKAGE_NAME" value="com.hj.JavaSe.practice" />
+      <option name="MAIN_CLASS_NAME" value="com.hj.JavaSe.practice.DemoOne" />
       <option name="METHOD_NAME" value="testTwo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -330,11 +439,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.StreamDemo.testTwo" />
+      <item itemvalue="JUnit.StreamDemo.testThree" />
+      <item itemvalue="JUnit.DemoOne.testTwo" />
+      <item itemvalue="JUnit.DemoOne.testOne" />
+      <item itemvalue="JUnit.Arithmetic.test1" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CollectionsDemo.testThree" />
-        <item itemvalue="JUnit.CollectionsDemo.testTwo" />
-        <item itemvalue="JUnit.CollectionsDemo.testOne" />
+        <item itemvalue="JUnit.Arithmetic.test1" />
+        <item itemvalue="JUnit.DemoOne.testTwo" />
+        <item itemvalue="JUnit.DemoOne.testOne" />
         <item itemvalue="JUnit.StreamDemo.testThree" />
         <item itemvalue="JUnit.StreamDemo.testTwo" />
       </list>
@@ -371,48 +487,58 @@
       <workItem from="1558082973777" duration="168000" />
       <workItem from="1559714622546" duration="5667000" />
       <workItem from="1559721106947" duration="727000" />
+      <workItem from="1559721849499" duration="83000" />
+      <workItem from="1559721934856" duration="6000" />
+      <workItem from="1559795286183" duration="46000" />
+      <workItem from="1559795848002" duration="89000" />
+      <workItem from="1561360593338" duration="3092000" />
+      <workItem from="1561880845528" duration="80000" />
+      <workItem from="1561880954124" duration="7703000" />
+      <workItem from="1562311234883" duration="1386000" />
+      <workItem from="1562579314024" duration="836000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StreamDemo_testThree - 2019.06.05 at 15h 43m 27s.xml">
-      <configuration name="StreamDemo.testThree" configurationId="JUnit" />
+    <history-entry file="DemoOne_testTwo - 2019.07.05 at 15h 37m 16s.xml">
+      <configuration name="DemoOne.testTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamDemo_testThree - 2019.06.05 at 15h 45m 41s.xml">
-      <configuration name="StreamDemo.testThree" configurationId="JUnit" />
+    <history-entry file="DemoOne_testTwo - 2019.07.05 at 15h 37m 33s.xml">
+      <configuration name="DemoOne.testTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamDemo_testThree - 2019.06.05 at 15h 45m 51s.xml">
-      <configuration name="StreamDemo.testThree" configurationId="JUnit" />
+    <history-entry file="Arithmetic_test1 - 2019.07.08 at 17h 49m 41s.xml">
+      <configuration name="Arithmetic.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamDemo_testThree - 2019.06.05 at 15h 47m 07s.xml">
-      <configuration name="StreamDemo.testThree" configurationId="JUnit" />
+    <history-entry file="Arithmetic_test1 - 2019.07.08 at 17h 58m 01s.xml">
+      <configuration name="Arithmetic.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamDemo_testThree - 2019.06.05 at 15h 47m 20s.xml">
-      <configuration name="StreamDemo.testThree" configurationId="JUnit" />
+    <history-entry file="Arithmetic_test1 - 2019.07.08 at 17h 58m 13s.xml">
+      <configuration name="Arithmetic.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StreamDemo_testThree - 2019.06.05 at 15h 47m 38s.xml">
-      <configuration name="StreamDemo.testThree" configurationId="JUnit" />
+    <history-entry file="Arithmetic_test1 - 2019.07.08 at 17h 58m 59s.xml">
+      <configuration name="Arithmetic.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CollectionsDemo_testOne - 2019.06.05 at 15h 55m 05s.xml">
-      <configuration name="CollectionsDemo.testOne" configurationId="JUnit" />
+    <history-entry file="Arithmetic_test1 - 2019.07.08 at 17h 59m 43s.xml">
+      <configuration name="Arithmetic.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CollectionsDemo_testOne - 2019.06.05 at 15h 55m 35s.xml">
-      <configuration name="CollectionsDemo.testOne" configurationId="JUnit" />
+    <history-entry file="Arithmetic_test1 - 2019.07.08 at 18h 00m 03s.xml">
+      <configuration name="Arithmetic.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CollectionsDemo_testTwo - 2019.06.05 at 15h 59m 46s.xml">
-      <configuration name="CollectionsDemo.testTwo" configurationId="JUnit" />
+    <history-entry file="Arithmetic_test1 - 2019.07.08 at 18h 02m 13s.xml">
+      <configuration name="Arithmetic.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CollectionsDemo_testThree - 2019.06.05 at 16h 00m 05s.xml">
-      <configuration name="CollectionsDemo.testThree" configurationId="JUnit" />
+    <history-entry file="Arithmetic_test1 - 2019.07.08 at 18h 02m 27s.xml">
+      <configuration name="Arithmetic.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189444000" />
+    <option name="totallyTimeSpent" value="202765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="732" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24878837" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28513733" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -422,8 +548,8 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.321875" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32970026" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49785408" weight="0.36790925" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.33549434" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49785408" visible="true" weight="0.36790925" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.46839547" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -443,7 +569,7 @@
       <window_info anchor="right" id="Database" order="8" weight="0.32884398" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22778675" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27705976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -454,14 +580,14 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32970026" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49785408" weight="0.36790925" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.33549434" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.46839547" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3283582" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.321875" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.32090762" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50214595" side_tool="true" weight="0.37042063" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
@@ -477,288 +603,78 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hj/jdk/ObjectAndSystem.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hj/jdk/ObjectAndSystem.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>0&gt;&gt;1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>elementData.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>10&gt;&gt;1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.max(DEFAULT_CAPACITY, minCapacity)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>elementData[10]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>elementData[9]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>elementData[1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>elementData[0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>elementData</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="193" selection-start-line="193" selection-end-line="193" />
-          <folding>
-            <element signature="e#1904#1905#0" expanded="true" />
-            <element signature="e#1956#1957#0" expanded="true" />
-            <element signature="e#4764#4899#0" expanded="true" />
-            <element signature="e#4898#4899#0" expanded="true" />
-            <element signature="e#5134#5282#0" expanded="true" />
-            <element signature="e#5281#5282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="1610" selection-start-line="1610" selection-end-line="1610" />
-          <folding>
-            <element signature="e#62916#62917#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Launcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="230" selection-start-line="230" selection-end-line="230" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="356" selection-start-line="356" selection-end-line="356" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.11/junit-4.11.jar!/org/junit/runner/JUnitCore.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.11/junit-4.11.jar!/org/junit/runner/notification/RunNotifier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#1105#1286#0" expanded="true" />
-            <element signature="e#1285#1286#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="892" selection-start-line="892" selection-end-line="892" />
-          <folding>
-            <element signature="e#33919#33920#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/hj/JavaSe/polymorphic/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1712">
-          <caret line="137" column="56" selection-start-line="137" selection-start-column="48" selection-end-line="137" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Arithmetic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#sort1#0;class#Arithmetic#0" />
-            <element signature="method#sort2#0;class#Arithmetic#0" />
-            <element signature="method#sort4#0;class#Arithmetic#0" />
-            <element signature="method#merge#0;class#Arithmetic#0" />
-            <element signature="method#mergeSort#0;class#Arithmetic#0" />
-            <element signature="method#mergeOne#0;class#Arithmetic#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="38" column="11" selection-start-line="35" selection-start-column="8" selection-end-line="38" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/OperateFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/operation/impl/OpearationAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/operation/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/factory/IFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/factory/impl/AddFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="19" />
-          <folding>
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/encapsulation/Students.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-400">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/encapsulation/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-349">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/exception/ExceptionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="50" column="20" lean-forward="true" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/encapsulation/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/map/hashmapDemoTwo/GoodsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/map/hashmapDemoTwo/Goods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/practice/DemoOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="57" column="59" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
-          <folding>
-            <element signature="method#testOne#0;class#DemoOne#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/listDemoOne/Notice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/set/listDemoOne/NoticeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-318">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/string/StringTestOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="128" column="27" lean-forward="true" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/wrap/WrapTestOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -780,34 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/jdk/ObjectAndSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/jdk/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="78" column="40" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/jdk/ArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/Lambad/LambdaDemoTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-179">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
@@ -816,27 +704,6 @@
             <element signature="e#7819#7820#0" expanded="true" />
             <element signature="e#7872#7873#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/Lambad/StreamDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="138" column="29" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/Lambad/LambdaDemoOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/CollectionsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1898">
-          <caret line="54" column="30" lean-forward="true" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -861,20 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/ArraysDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="45" column="24" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="45" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/ListDemoOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -882,10 +735,366 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="975" column="19" selection-start-line="975" selection-start-column="19" selection-end-line="975" selection-end-column="19" />
+          <folding>
+            <element signature="e#62860#62861#0" expanded="true" />
+            <element signature="e#62916#62917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/jdk/equals_hashcode/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hj/JavaSe/design_pattern/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Multiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="58" selection-start-line="14" selection-start-column="32" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/OperateFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/operation/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/operation/impl/OpearationAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/factory/impl/MultiplyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/operation/impl/OperationMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/factory/IFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/factory/impl/AddFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/ArraysDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="45" column="24" selection-start-line="42" selection-start-column="11" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/CollectionsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="54" column="30" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/DemoOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="140" column="16" lean-forward="true" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
+        <state relative-caret-position="2312">
+          <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/ListDemoOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/exception/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/string/StringTestOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="128" column="27" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/jdk/equals_hashcode/CaseInsensitiveString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/jdk/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/VM.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1111">
+          <caret line="127" column="25" selection-start-line="127" selection-start-column="25" selection-end-line="127" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#728#922#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="158" selection-start-line="158" selection-end-line="158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="1251" selection-start-line="1251" selection-end-line="1251" />
+          <folding>
+            <element signature="e#49082#49083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3178" column="34" lean-forward="true" selection-start-line="3178" selection-start-column="34" selection-end-line="3178" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/jdk/ObjectAndSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="460" column="3" lean-forward="true" selection-start-line="460" selection-start-column="3" selection-end-line="462" selection-end-column="32" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/practice/DemoOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="53" column="49" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/Lambad/LambdaDemoOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/Lambad/LambdaDemoTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/Lambad/StreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="138" column="37" selection-start-line="137" selection-start-column="38" selection-end-line="138" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/jdk/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="78" column="40" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1565">
+          <caret line="202" column="40" lean-forward="true" selection-start-line="202" selection-start-column="40" selection-end-line="202" selection-end-column="40" />
+          <folding>
+            <element signature="e#32532#32533#0" expanded="true" />
+            <element signature="e#32566#32567#0" expanded="true" />
+            <element signature="e#33891#33892#0" expanded="true" />
+            <element signature="e#33919#33920#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Arithmetic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="74" column="30" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#sort1#0;class#Arithmetic#0" />
+            <element signature="method#sort2#0;class#Arithmetic#0" />
+            <element signature="method#sort3#0;class#Arithmetic#0" />
+            <element signature="method#sort4#0;class#Arithmetic#0" />
+            <element signature="method#merge#0;class#Arithmetic#0" />
+            <element signature="method#mergeSort#0;class#Arithmetic#0" />
+            <element signature="method#mergeOne#0;class#Arithmetic#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -918,6 +1127,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>@types/jquery</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -946,6 +1156,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

@@ -65,6 +65,24 @@ public class Arithmetic {
     }
 
     /**
+     * 冒泡排序,从小到大
+     */
+    public static Integer[] sort(Integer[] arrays){
+        int flag;
+        for (int i=0;i<arrays.length-1;i++){
+            for (int j=0;j<arrays.length-i-1;j++){
+                //大的放右边
+                if (arrays[j]>arrays[j+1]){
+                    flag=arrays[j];
+                    arrays[j]=arrays[j+1];
+                    arrays[j+1]=flag;
+                }
+            }
+        }
+        return arrays;
+    }
+
+    /**
      * 插入排序
      */
     public static Integer[] sort4(Integer[] arrays) {
@@ -172,7 +190,7 @@ public class Arithmetic {
         //Integer[] integers = new Arithmetic().mergeOne(a, b);
         //System.out.println(Arrays.toString(integers));
         //new Arithmetic().mergeSort(c, 0, c.length - 1);
-        System.out.println(Arrays.toString(Arithmetic.sort3(c)));
+        System.out.println(Arrays.toString(Arithmetic.sort(c)));
         //System.out.println(Arrays.toString(Arithmetic.sort4(c)));
     }
 }
