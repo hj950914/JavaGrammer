@@ -144,4 +144,21 @@ public class StreamDemo {
         }
 
     }
+
+    /**
+     * lambda练习
+     */
+    @Test
+    public void testFour() {
+        //计算一个字符串中小写字母的个数
+        String str = "AbCdEfGhJkL";
+        long sum = str.chars().filter(Character::isLowerCase).count();
+        System.out.println(sum);
+        //在给定的字符串列表中,找出包含最多小写字母的字符串
+        String[] array = {"aA", "BBa", "aa"};
+        String result = Arrays.stream(array)
+                .max(Comparator.comparing(s -> s.chars().filter(Character::isLowerCase).count()))
+                .orElse("");
+        System.out.println(result);
+    }
 }

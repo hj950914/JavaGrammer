@@ -78,7 +78,7 @@ public class WrapTestOne {
         System.out.println("***********************************************");
 
         Integer six = 200;
-        //这里是false,因为java是定义在 -128<参数<128
+        //这里是false,因为java是定义在 -128<参数<127
         //Integer six=200和Integer five=200的值不在参数范围内,所以不相等
         System.out.println("five==six的结果：" + (five == six));//结果false
         System.out.println("***********************************************");
@@ -88,7 +88,7 @@ public class WrapTestOne {
         System.out.println("***********************************************");
 
         Double d2 = Double.valueOf(100);
-        //Double和Float类型是不具备对象常量池的,也就是没有-128<参数<128规定,所以结果不相等
+        //Double和Float类型是不具备对象常量池的,也就是没有-128<参数<127规定,所以结果不相等
         System.out.println("d1==d2的结果:" + (d1 == d2));//结果false
     }
 

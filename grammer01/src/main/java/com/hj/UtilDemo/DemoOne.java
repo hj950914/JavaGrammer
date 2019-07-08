@@ -2,7 +2,6 @@ package com.hj.UtilDemo;
 
 import org.junit.Test;
 
-import java.awt.event.KeyListener;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -227,9 +226,9 @@ public class DemoOne {
             list1.add(c);
         }
         /*
-        * 方法2:
-        * 把字符串分隔成单个字符
-        * */
+         * 方法2:
+         * 把字符串分隔成单个字符
+         * */
         List<String> list2 = Arrays.stream(str).map(e -> e.split("")).flatMap(Arrays::stream).collect(Collectors.toList());
         System.out.println(list2);
 
