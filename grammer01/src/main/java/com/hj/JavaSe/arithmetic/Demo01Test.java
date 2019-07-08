@@ -51,6 +51,14 @@ public class Demo01Test {
         }
         System.out.println();
 
+        //测试ArrayCombine方法a
+        System.out.print("数组合并的时候进行消除相同元素:");
+        int[] ints1 = demo01.arrayCombine(a, b);
+        for (int i : ints1) {
+            System.out.print(i + " ");
+        }
+        System.out.println();
+
         System.out.println("使用工具类合并数组:");
         Integer[] a1 = {2, 10, 14, 19, 51, 71};
         Integer[] a2 = {2, 9, 10, 14, 40, 51};

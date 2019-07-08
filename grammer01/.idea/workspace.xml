@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdbe1bb5-fea9-44db-83c9-ebb2fade6484" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hj/jdk/equals_hashcode/CaseInsensitiveString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hj/jdk/equals_hashcode/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../111.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestOne/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestOne/.idea/vcs.xml" beforeDir="false" />
@@ -15,15 +13,14 @@
       <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/demo.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/practice/DemoOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/practice/DemoOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hj/jdk/ObjectAndSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hj/jdk/ObjectAndSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hj/JavaSe/design_pattern/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hj/JavaSe/design_pattern/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/arithmetic/Arithmetic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/arithmetic/Arithmetic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/arithmetic/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/arithmetic/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/arithmetic/Demo01Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/arithmetic/Demo01Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/practice/DemoOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/JavaSe/practice/DemoOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hj/jdk/ObjectAndSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hj/jdk/ObjectAndSystem.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,20 +46,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Arithmetic.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/practice/DemoOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="74" column="30" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
+            <state relative-caret-position="381">
+              <caret line="80" column="27" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#sort1#0;class#Arithmetic#0" />
-                <element signature="method#sort2#0;class#Arithmetic#0" />
-                <element signature="method#sort3#0;class#Arithmetic#0" />
-                <element signature="method#sort4#0;class#Arithmetic#0" />
-                <element signature="method#merge#0;class#Arithmetic#0" />
-                <element signature="method#mergeSort#0;class#Arithmetic#0" />
-                <element signature="method#mergeOne#0;class#Arithmetic#0" />
+                <element signature="method#testOne#0;class#DemoOne#0" />
+                <element signature="method#testTwo#0;class#DemoOne#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/map/hashmapDemoOne/DictionaryDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-170">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/map/hashmapDemoTwo/Goods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-93">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/map/hashmapDemoTwo/GoodsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-229">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -94,7 +112,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/SubFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/UtilPractice.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Add.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Sub.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Multiply.java" />
@@ -118,13 +135,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/ListDemoOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/MapDemoOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/jdk/ArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Operation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/string/StringTestOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/wrap/WrapTestOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/CollectionsDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/DemoOne.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/exception/ExceptionDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/jdk/equals_hashcode/CaseInsensitiveString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/jdk/equals_hashcode/Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/hj/JavaSe/design_pattern/test.java" />
@@ -132,8 +147,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hj/jdk/ObjectAndSystem.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/Lambad/LambdaDemoOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/Lambad/StreamDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/practice/DemoOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Arithmetic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/exception/ExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hj/JavaSe/practice/DemoOne.java" />
       </list>
     </option>
   </component>
@@ -245,7 +263,29 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hj" type="462c0819:PsiDirectoryNode" />
               <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
-              <item name="arithmetic" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grammer01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hj" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+              <item name="hashmapDemoOne" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grammer01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hj" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+              <item name="hashmapDemoTwo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="grammer01" type="b2602c69:ProjectViewProjectNode" />
@@ -329,7 +369,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562580144705" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562584573241" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -358,7 +398,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Arithmetic.test1">
+  <component name="RunManager" selected="JUnit.DemoOne.testThree">
     <configuration name="Arithmetic.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="grammer01" />
       <extension name="coverage">
@@ -375,7 +415,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoOne.testOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo01Test.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="grammer01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hj.JavaSe.arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hj.JavaSe.arithmetic" />
+      <option name="MAIN_CLASS_NAME" value="com.hj.JavaSe.arithmetic.Demo01Test" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoOne.testThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="grammer01" />
       <extension name="coverage">
         <pattern>
@@ -385,7 +441,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.hj.JavaSe.practice" />
       <option name="MAIN_CLASS_NAME" value="com.hj.JavaSe.practice.DemoOne" />
-      <option name="METHOD_NAME" value="testOne" />
+      <option name="METHOD_NAME" value="testThree" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -407,52 +463,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamDemo.testThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionDemo.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="grammer01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hj.Lambad.*" />
+          <option name="PATTERN" value="com.hj.JavaSe.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.hj.Lambad" />
-      <option name="MAIN_CLASS_NAME" value="com.hj.Lambad.StreamDemo" />
-      <option name="METHOD_NAME" value="testThree" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamDemo.testTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="grammer01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hj.Lambad.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hj.Lambad" />
-      <option name="MAIN_CLASS_NAME" value="com.hj.Lambad.StreamDemo" />
-      <option name="METHOD_NAME" value="testTwo" />
+      <option name="PACKAGE_NAME" value="com.hj.JavaSe.exception" />
+      <option name="MAIN_CLASS_NAME" value="com.hj.JavaSe.exception.ExceptionDemo" />
+      <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.StreamDemo.testTwo" />
-      <item itemvalue="JUnit.StreamDemo.testThree" />
       <item itemvalue="JUnit.DemoOne.testTwo" />
-      <item itemvalue="JUnit.DemoOne.testOne" />
       <item itemvalue="JUnit.Arithmetic.test1" />
+      <item itemvalue="JUnit.Demo01Test.test01" />
+      <item itemvalue="JUnit.ExceptionDemo.test4" />
+      <item itemvalue="JUnit.DemoOne.testThree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DemoOne.testThree" />
+        <item itemvalue="JUnit.ExceptionDemo.test4" />
+        <item itemvalue="JUnit.Demo01Test.test01" />
         <item itemvalue="JUnit.Arithmetic.test1" />
         <item itemvalue="JUnit.DemoOne.testTwo" />
-        <item itemvalue="JUnit.DemoOne.testOne" />
-        <item itemvalue="JUnit.StreamDemo.testThree" />
-        <item itemvalue="JUnit.StreamDemo.testTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -495,50 +535,50 @@
       <workItem from="1561880845528" duration="80000" />
       <workItem from="1561880954124" duration="7703000" />
       <workItem from="1562311234883" duration="1386000" />
-      <workItem from="1562579314024" duration="836000" />
+      <workItem from="1562579314024" duration="5405000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DemoOne_testTwo - 2019.07.05 at 15h 37m 16s.xml">
-      <configuration name="DemoOne.testTwo" configurationId="JUnit" />
+    <history-entry file="DemoOne_testThree - 2019.07.08 at 19h 05m 14s.xml">
+      <configuration name="DemoOne.testThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DemoOne_testTwo - 2019.07.05 at 15h 37m 33s.xml">
-      <configuration name="DemoOne.testTwo" configurationId="JUnit" />
+    <history-entry file="DemoOne_testThree - 2019.07.08 at 19h 05m 41s.xml">
+      <configuration name="DemoOne.testThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arithmetic_test1 - 2019.07.08 at 17h 49m 41s.xml">
-      <configuration name="Arithmetic.test1" configurationId="JUnit" />
+    <history-entry file="DemoOne_testThree - 2019.07.08 at 19h 05m 58s.xml">
+      <configuration name="DemoOne.testThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arithmetic_test1 - 2019.07.08 at 17h 58m 01s.xml">
-      <configuration name="Arithmetic.test1" configurationId="JUnit" />
+    <history-entry file="DemoOne_testThree - 2019.07.08 at 19h 06m 05s.xml">
+      <configuration name="DemoOne.testThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arithmetic_test1 - 2019.07.08 at 17h 58m 13s.xml">
-      <configuration name="Arithmetic.test1" configurationId="JUnit" />
+    <history-entry file="DemoOne_testThree - 2019.07.08 at 19h 06m 15s.xml">
+      <configuration name="DemoOne.testThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arithmetic_test1 - 2019.07.08 at 17h 58m 59s.xml">
-      <configuration name="Arithmetic.test1" configurationId="JUnit" />
+    <history-entry file="DemoOne_testThree - 2019.07.08 at 19h 06m 37s.xml">
+      <configuration name="DemoOne.testThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arithmetic_test1 - 2019.07.08 at 17h 59m 43s.xml">
-      <configuration name="Arithmetic.test1" configurationId="JUnit" />
+    <history-entry file="DemoOne_testThree - 2019.07.08 at 19h 07m 57s.xml">
+      <configuration name="DemoOne.testThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arithmetic_test1 - 2019.07.08 at 18h 00m 03s.xml">
-      <configuration name="Arithmetic.test1" configurationId="JUnit" />
+    <history-entry file="DemoOne_testThree - 2019.07.08 at 19h 09m 26s.xml">
+      <configuration name="DemoOne.testThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arithmetic_test1 - 2019.07.08 at 18h 02m 13s.xml">
-      <configuration name="Arithmetic.test1" configurationId="JUnit" />
+    <history-entry file="DemoOne_testThree - 2019.07.08 at 19h 15m 57s.xml">
+      <configuration name="DemoOne.testThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Arithmetic_test1 - 2019.07.08 at 18h 02m 27s.xml">
-      <configuration name="Arithmetic.test1" configurationId="JUnit" />
+    <history-entry file="DemoOne_testThree - 2019.07.08 at 19h 16m 16s.xml">
+      <configuration name="DemoOne.testThree" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202765000" />
+    <option name="totallyTimeSpent" value="207334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="732" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28513733" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28513733" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -548,7 +588,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.321875" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32970026" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49785408" visible="true" weight="0.36790925" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49676898" weight="0.36790925" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.46839547" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -557,7 +597,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3283582" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.32090762" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50214595" side_tool="true" weight="0.37042063" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.503231" side_tool="true" weight="0.36790925" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -569,7 +609,7 @@
       <window_info anchor="right" id="Database" order="8" weight="0.32884398" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27705976" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28513733" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -579,7 +619,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.321875" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32970026" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49785408" weight="0.36790925" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49676898" weight="0.36790925" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.46839547" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -588,7 +628,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3283582" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49928468" weight="0.32090762" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50214595" side_tool="true" weight="0.37042063" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.503231" side_tool="true" weight="0.36790925" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -675,52 +715,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/wrap/WrapTestOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="71" column="27" lean-forward="true" selection-start-line="71" selection-start-column="27" selection-end-line="71" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/map/hashmapDemoOne/DictionaryDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="42" column="31" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="42" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/jdk/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="486" column="36" selection-start-line="486" selection-start-column="36" selection-end-line="486" selection-end-column="36" />
-          <folding>
-            <element signature="e#7819#7820#0" expanded="true" />
-            <element signature="e#7872#7873#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/MapDemoOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-438">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/UtilDemo/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
@@ -760,13 +754,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Multiply.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -778,100 +765,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="58" selection-start-line="14" selection-start-column="32" selection-end-line="15" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/OperateFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/operation/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/operation/impl/OpearationAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/factory/impl/MultiplyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/operation/impl/OperationMultiply.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/factory/IFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/factory/impl/AddFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -900,13 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/exception/ExceptionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
@@ -1001,13 +891,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/jdk/ObjectAndSystem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -1015,24 +898,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="460" column="3" lean-forward="true" selection-start-line="460" selection-start-column="3" selection-end-line="462" selection-end-column="32" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/practice/DemoOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="53" column="49" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -1083,17 +948,207 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Arithmetic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="74" column="30" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
+        <state relative-caret-position="98">
+          <caret line="69" column="50" selection-start-line="69" selection-start-column="50" selection-end-line="69" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#sort1#0;class#Arithmetic#0" />
             <element signature="method#sort2#0;class#Arithmetic#0" />
             <element signature="method#sort3#0;class#Arithmetic#0" />
+            <element signature="method#sort#0;class#Arithmetic#0" />
             <element signature="method#sort4#0;class#Arithmetic#0" />
             <element signature="method#merge#0;class#Arithmetic#0" />
             <element signature="method#mergeSort#0;class#Arithmetic#0" />
             <element signature="method#mergeOne#0;class#Arithmetic#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/arithmetic/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="147" column="25" selection-start-line="147" selection-start-column="25" selection-end-line="147" selection-end-column="25" />
+          <folding>
+            <element signature="method#YearTest01#0;class#Demo01#0" />
+            <element signature="method#YearTest02#0;class#Demo01#0" />
+            <element signature="method#ArrayCombine2#0;class#Demo01#0" />
+            <element signature="method#arrayCombine3#0;class#Demo01#0" />
+            <element signature="method#arrayCombine4#0;class#Demo01#0" />
+            <element signature="method#RemoveEqualArray#0;class#Demo01#0" />
+            <element signature="method#RemoveEqualArray2#0;class#Demo01#0" />
+            <element signature="method#ReturnArrayMaxValue#0;class#Demo01#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="34" column="11" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="34" selection-end-column="11" />
+          <folding>
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-start-line="14" selection-start-column="8" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/simpleFactory/OperateFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/factory/impl/MultiplyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/factory/impl/SubFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/factory/IFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/factory/impl/AddFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/operation/impl/OpearationAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/operation/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/design_pattern/factory/FactoryMethod/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/exception/ExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/map/hashmapDemoOne/DictionaryDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/map/hashmapDemoTwo/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/map/hashmapDemoTwo/GoodsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="108" column="3" lean-forward="true" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="170" column="47" selection-start-line="170" selection-start-column="47" selection-end-line="170" selection-end-column="47" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hj/JavaSe/practice/DemoOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="80" column="27" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="27" />
+          <folding>
+            <element signature="method#testOne#0;class#DemoOne#0" />
+            <element signature="method#testTwo#0;class#DemoOne#0" />
           </folding>
         </state>
       </provider>

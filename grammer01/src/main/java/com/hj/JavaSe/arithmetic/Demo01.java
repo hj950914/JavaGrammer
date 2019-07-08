@@ -129,6 +129,40 @@ public class Demo01 {
         return NewArray2;
     }
 
+    /**
+     * 2有序数组合并成一个数组
+     */
+    public int[] arrayCombine(int[] arrayOne, int[] arrayTwo){
+        int i=0,j=0,k=0;
+        int[] newArray=new int[arrayOne.length+arrayTwo.length];
+        //合并的最终结果
+        int[] newArray2;
+        //2个数组都没有遍历完
+        while (i<arrayOne.length||j<arrayTwo.length){
+            if (arrayOne.length<=i){//当数组arrayOne遍历完
+                newArray[k++]=arrayTwo[j++];
+                continue;
+            }
+            if (arrayTwo.length<=j){//当数组arrayTwo遍历完
+                newArray[k++]=arrayOne[i++];
+                continue;
+            }
+            //当没有数组遍历完
+            if (arrayOne[i]<=arrayTwo[j]){
+                int i1=i;
+                newArray[k++]=arrayOne[i++];
+                if (arrayOne[i1]==arrayTwo[j]){//当元素相同时
+                    j++;
+                }
+            }else {
+                newArray[k++]=arrayTwo[j++];
+            }
+        }
+        newArray2=new int[k];
+        System.arraycopy(newArray,0,newArray2,0,k);
+        return newArray2;
+    }
+
     /*
      * 数组合并,借助工具类
      * */
